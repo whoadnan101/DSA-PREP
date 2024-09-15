@@ -11,7 +11,7 @@ bool Pal(int n, string &s)
 
 int main()
 {
-    string name = "MADsM";
+    string name = "MADAM";
     cout << Pal(0, name);
     return 0;
 }
